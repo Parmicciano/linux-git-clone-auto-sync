@@ -1,6 +1,6 @@
 # linux-git-clone-auto-sync
 
-<h1>Synchroniwe your website servers with your code</h1> 
+<h1>Synchronize your website servers with your code</h1> 
 
 This script allows you to clone a private github repository and update it onchange
 
